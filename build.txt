@@ -1,0 +1,1 @@
+gcc source/main.c source/commands.c -o shell -Wall -pedantic
